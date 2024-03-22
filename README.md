@@ -68,6 +68,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
+- Armenia: Transport and Trade Facilitation Strategy, 2020–2040 (ADB, 2019): https://www.adb.org/sites/default/files/project-documents/52353/52353-001-tar-en.pdf
 - Armenia's Transport Outlook: Transport Sector Master Plan (ADB, 2011): https://www.adb.org/publications/armenias-transport-outlook-transport-sector-master-plan
 - Sustainable Urban Transport In the City of Yerevan (UNECE, 2006): https://unece.org/DAM/thepep/en/workplan/urban/documents/Tbilisi/Yerevan_sustainableurbantransport_en.pdf
 
