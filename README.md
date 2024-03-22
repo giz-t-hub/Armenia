@@ -36,13 +36,15 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
-- Climate:
+- Mitigation:
   - Armenia First NDC (Updated submission), 2021: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20of%20Republic%20of%20Armenia%20%202021-2030.pdf ("Transport Strategy: increased efficiency of public transport, use of renewable energy, stimulation and support in uptake of electric vehicles") 
   - Long-term (until 2050) Low Emissions Development Strategy of the Republic of Armenia (2023): https://eu4climate.eu/wp-content/uploads/download-manager-files/Draft%20LT-LEDS%20of%20Armenia.pdf
   - Voluntary National Review Report (UN HLPF, 2020): https://hlpf.un.org/sites/default/files/vnrs/2021/26318Armenia_VNRFINAL.pdf
   - Third Biennial Update Report (Ministry of Environment, 2021): https://unfccc.int/sites/default/files/resource/BUR3_Armenia.pdf
+- Adaptation´:
   - National Adaptation Plan 2021: https://unfccc.int/sites/default/files/resource/NAP_Armenia.pdf
-- Energy
+    
+- Energy policy:
   - Second National Energy Efficiency Action Plan for Armenia, 2015: https://policy.thinkbluedata.com/sites/default/files/Second%20National%20Energy%20Efficiency%20Action%20Plan%20%28NEEAP%29%20%282015%20Draft%29.pdf
   - Program on Energy Saving and Renewable Energy for 2022-2030 for Armenia (2022): https://eu4climate.eu/download/program-on-energy-saving-and-renewable-energy-for-2022-2030-for-armenia/
   
