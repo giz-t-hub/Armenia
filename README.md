@@ -11,7 +11,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
 - [Climate and energy policies](#climate-energy-policies) 
 - [EU accession](#eu-accession)
-- [Trade Facilitation](#trade-facilitation)  
+- [Trade Facilitation](#trade-facilitation)
+- [Digitalisation](#digitalisation)
+- [Gender and Equality](#gender)
 - [Local Transport Plans](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
@@ -20,7 +22,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
--
+- Armenia Development Strategy for 2014‐2025: https://policy.asiapacificenergy.org/sites/default/files/Development%20Strategy%20of%20the%20Republic%20of%20Armenia%20for%202014-2025_ENG.pdf // Armenian: https://www.gov.am/files/docs/1322.pdf
+- Programme of the Government of the Republic of Armenia: 2021-2026: https://www.gov.am/files/docs/4737.pdf
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -29,7 +32,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Armenia First NDC (Updated submission), 2021: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20of%20Republic%20of%20Armenia%20%202021-2030.pdf ("Transport Strategy: increased efficiency of public transport, use of renewable energy, stimulation and support in uptake of electric vehicles") 
-
+- Long-term (until 2050) Low Emissions Development Strategy of the Republic of Armenia (2023): https://eu4climate.eu/wp-content/uploads/download-manager-files/Draft%20LT-LEDS%20of%20Armenia.pdf
 
 ### EU accession <a name="eu-accession"></a> 
 
@@ -49,7 +52,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
-- 
+- Armenia's Transport Outlook: Transport Sector Master Plan (ADB, 2011): https://www.adb.org/publications/armenias-transport-outlook-transport-sector-master-plan
+- Sustainable Urban Transport In the City of Yerevan (UNECE, 2006): https://unece.org/DAM/thepep/en/workplan/urban/documents/Tbilisi/Yerevan_sustainableurbantransport_en.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
