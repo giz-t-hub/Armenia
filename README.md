@@ -41,7 +41,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - Long-term (until 2050) Low Emissions Development Strategy of the Republic of Armenia (2023): https://eu4climate.eu/wp-content/uploads/download-manager-files/Draft%20LT-LEDS%20of%20Armenia.pdf
   - Voluntary National Review Report (UN HLPF, 2020): https://hlpf.un.org/sites/default/files/vnrs/2021/26318Armenia_VNRFINAL.pdf
   - Third Biennial Update Report (Ministry of Environment, 2021): https://unfccc.int/sites/default/files/resource/BUR3_Armenia.pdf
-- Adaptation´:
+- Adaptation:
   - National Adaptation Plan 2021: https://unfccc.int/sites/default/files/resource/NAP_Armenia.pdf
     
 - Energy policy:
