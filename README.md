@@ -1,6 +1,10 @@
 # Transport in Armenia
 Plans, data and other documents on transport in Armenia
 
+<b> 
+Community list of publications, data and other useful information on transport in Armenia :bike::bus::train:🌳🚊
+</b><br><br>
+
 Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ------------------------------
@@ -44,8 +48,16 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
+-
 
-- 
+### Digitalisation <a name="digitalisation"></a>
+
+-
+
+### Gender and Equality <a name="gender"></a>
+
+-
+
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
