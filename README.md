@@ -26,9 +26,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
-- Armenia Development Strategy for 2014‐2025: https://policy.asiapacificenergy.org/sites/default/files/Development%20Strategy%20of%20the%20Republic%20of%20Armenia%20for%202014-2025_ENG.pdf // Armenian: https://www.gov.am/files/docs/1322.pdf
-- Programme of the Government of the Republic of Armenia: 2021-2026: https://www.gov.am/files/docs/4737.pdf
-- Action Plan of the Government of the Republic of Armenia: 2021-2026: https://www.gov.am/files/docs/4740.pdf
+- <b> Armenia Development Strategy for 2014‐2025 </b>: https://policy.asiapacificenergy.org/sites/default/files/Development%20Strategy%20of%20the%20Republic%20of%20Armenia%20for%202014-2025_ENG.pdf // Armenian: https://www.gov.am/files/docs/1322.pdf
+- <b> Programme of the Government of the Republic of Armenia: 2021-2026 </b>: https://www.gov.am/files/docs/4737.pdf
+- <b> Action Plan of the Government of the Republic of Armenia: 2021-2026 </b>: https://www.gov.am/files/docs/4740.pdf
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -37,16 +37,16 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-  - Armenia First NDC (Updated submission), 2021: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20of%20Republic%20of%20Armenia%20%202021-2030.pdf ("Transport Strategy: increased efficiency of public transport, use of renewable energy, stimulation and support in uptake of electric vehicles") 
-  - Long-term (until 2050) Low Emissions Development Strategy of the Republic of Armenia (2023): https://eu4climate.eu/wp-content/uploads/download-manager-files/Draft%20LT-LEDS%20of%20Armenia.pdf
-  - Voluntary National Review Report (UN HLPF, 2020): https://hlpf.un.org/sites/default/files/vnrs/2021/26318Armenia_VNRFINAL.pdf
-  - Third Biennial Update Report (Ministry of Environment, 2021): https://unfccc.int/sites/default/files/resource/BUR3_Armenia.pdf
+  - <b> Armenia First NDC (Updated submission) </b>, 2021: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20of%20Republic%20of%20Armenia%20%202021-2030.pdf ("Transport Strategy: increased efficiency of public transport, use of renewable energy, stimulation and support in uptake of electric vehicles") 
+  - <b> Long-term (until 2050) Low Emissions Development Strategy of the Republic of Armenia </b>, 2023): https://eu4climate.eu/wp-content/uploads/download-manager-files/Draft%20LT-LEDS%20of%20Armenia.pdf
+  - <b> Voluntary National Review Report </b>, UN HLPF, 2020: https://hlpf.un.org/sites/default/files/vnrs/2021/26318Armenia_VNRFINAL.pdf
+  - <b> Third Biennial Update Report </b>, Ministry of Environment, 2021: https://unfccc.int/sites/default/files/resource/BUR3_Armenia.pdf
 - Adaptation:
-  - National Adaptation Plan 2021: https://unfccc.int/sites/default/files/resource/NAP_Armenia.pdf
+  - <b> National Adaptation Plan </b>, 2021: https://unfccc.int/sites/default/files/resource/NAP_Armenia.pdf
     
 - Energy policy:
-  - Second National Energy Efficiency Action Plan for Armenia, 2015: https://policy.thinkbluedata.com/sites/default/files/Second%20National%20Energy%20Efficiency%20Action%20Plan%20%28NEEAP%29%20%282015%20Draft%29.pdf
-  - Program on Energy Saving and Renewable Energy for 2022-2030 for Armenia (2022): https://eu4climate.eu/download/program-on-energy-saving-and-renewable-energy-for-2022-2030-for-armenia/
+  - <b> Second National Energy Efficiency Action Plan for Armenia </b>, 2015: https://policy.thinkbluedata.com/sites/default/files/Second%20National%20Energy%20Efficiency%20Action%20Plan%20%28NEEAP%29%20%282015%20Draft%29.pdf
+  - <b> Program on Energy Saving and Renewable Energy for 2022-2030 for Armenia </b>, 2022: https://eu4climate.eu/download/program-on-energy-saving-and-renewable-energy-for-2022-2030-for-armenia/
   
 ### EU accession <a name="eu-accession"></a> 
 
@@ -99,4 +99,4 @@ Contributors:
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of Dcember 2023)
+- (as of April 2024)
