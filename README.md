@@ -14,7 +14,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
 - [Climate and energy policies](#climate-energy-policies) 
-- [EU accession](#eu-accession)
+- [EU accession and cooperation](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
@@ -48,7 +48,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - <b> Second National Energy Efficiency Action Plan for Armenia </b>, 2015: https://policy.thinkbluedata.com/sites/default/files/Second%20National%20Energy%20Efficiency%20Action%20Plan%20%28NEEAP%29%20%282015%20Draft%29.pdf
   - <b> Program on Energy Saving and Renewable Energy for 2022-2030 for Armenia </b>, 2022: https://eu4climate.eu/download/program-on-energy-saving-and-renewable-energy-for-2022-2030-for-armenia/
   
-### EU accession <a name="eu-accession"></a> 
+### EU accession and cooperation <a name="eu-accession"></a> 
 
 - 
 
