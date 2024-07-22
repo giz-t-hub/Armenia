@@ -79,6 +79,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
+- <b> Connectivity, Road Quality, and Jobs : Evidence from Armenia </b>: Nino Pkhikidze / World Bank, July 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099439407102418802/idu162e4ac57105bb14438185e3120f86105af03 - *Good road infrastructure decreases travel time and improves accessibility to urban areas. Improved rural-urban linkages could also affect rural employment through decreased time and travel costs. To study this link, the paper analyzes the impact of good quality roads on agricultural and non-agricultural jobs in Armenia, using different sets of data and different methodological approaches. The results show that a shorter 
+distance to a good quality road has a statistically significant positive impact on overall non-agricultural employment for men and women, increasing the likelihood of cash-earning jobs for rural women and skilled manual and non-seasonal employment for rural men.*
 - Armenia: Transport and Trade Facilitation Strategy, 2020–2040 (ADB, 2019): https://www.adb.org/sites/default/files/project-documents/52353/52353-001-tar-en.pdf
 - Armenia's Transport Outlook: Transport Sector Master Plan (ADB, 2011): https://www.adb.org/publications/armenias-transport-outlook-transport-sector-master-plan
 - Sustainable Urban Transport In the City of Yerevan (UNECE, 2006): https://unece.org/DAM/thepep/en/workplan/urban/documents/Tbilisi/Yerevan_sustainableurbantransport_en.pdf
